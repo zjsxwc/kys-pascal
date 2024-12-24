@@ -8,7 +8,7 @@
 通过更换数据包，可以运行大部分MOD。
 
 ## 如何编译
-SDL2的pas文件请从<https://github.com/ev1313/Pascal-SDL-2-Headers>获取。其他外部库的文件均已经自带。
+SDL2的pas文件请从<https://github.com/ev1313/Pascal-SDL-2-Headers>获取,把Pascal-SDL-2-Headers项目下的所有pas、inc文件都复制过来放到这里kys.lpr入口文件同目录下。其他外部库的文件均已经自带。
 
 首先下载游戏本体，其中包含了Windows版本的exe文件和dll文件以及资源文件：<https://pan.baidu.com/s/1nv9R5rz>。
 
